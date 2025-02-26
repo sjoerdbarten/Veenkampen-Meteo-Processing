@@ -1,0 +1,2 @@
+copy c:\veenkampen\data\VeenkampenNorth_stats.dat W:\ESG\DOW_MAQ\MAQ_Archive\Veenkampen_archive\raw_data\VeenkampenN\
+copy c:\veenkampen\data\VeenkampenSouth_stats.dat W:\ESG\DOW_MAQ\MAQ_Archive\Veenkampen_archive\raw_data\VeenkampenS\
